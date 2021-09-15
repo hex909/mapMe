@@ -6,6 +6,14 @@
   "background_color": "#fff",
   "description": "View map. drive around.",
   "icons": [{
+
+    "src": "navigator19.png",
+
+    "sizes": "19x10",
+
+    "type": "image/png"
+
+  },{
     "src": "navigator48.png",
     "sizes": "48x48",
     "type": "image/png"
