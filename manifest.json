@@ -2,7 +2,7 @@
   "name": "MapMe",
   "short_name": "MapMe",
   "start_url": "index.html",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#fff",
   "description": "View map. drive around.",
   "icons": [{
